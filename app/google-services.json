@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1087938000713",
+    "firebase_url": "https://freshguard-d184b-default-rtdb.firebaseio.com",
+    "project_id": "freshguard-d184b",
+    "storage_bucket": "freshguard-d184b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087938000713:android:047cbb70a7439139f48c98",
+        "android_client_info": {
+          "package_name": "com.example.freshguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1DSwQLjTNAsmoQ4_HihRBTIkDIrbLMws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
